@@ -1,6 +1,8 @@
 # Python ToDoList App
 
 A simple ToDoList application written in Python.
+![alt text](https://ibb.co/6X1MMFC)
+
 
 ## Features
 
